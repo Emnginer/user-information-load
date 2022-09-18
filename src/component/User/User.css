@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0
+}
+.user-details{
+    padding:8px;
+    line-height: 30px;
+}
+.user-details button{
+    width: 150px;
+    background-color: cadetblue;
+    color:aliceblue;
+    padding:10px;
+    border:none;
+    outline:none;
+    border-radius: 10px;
+    transition: 0.2s all;
+}
+.user-details button:hover{
+   background-color: aquamarine;
+}
